@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  height: 100px;
+  width: 100%;
+  flex-wrap: wrap;
+  background-color: #00A;
+  color: #FFF;
+  position: fixed;
+  top: 0;
+}
+
+.pointer {
+  cursor: pointer;
+}
